@@ -13,4 +13,5 @@ This project analyzes the fairness of machine learning models in predicting unde
    - preprocessing_method.ipynb - Bias mitigation through preprocessing
    - inprocessing_method.ipynb - Bias correction within the model
    - postprocessing_method.ipynb - Post-processing bias adjustments
+
 For data preprocessing, please refer to this Colab notebook: https://colab.research.google.com/drive/1eakWL8RHFU4KKUagbDlpHNH4eBjxFvh1?usp=drive_link
